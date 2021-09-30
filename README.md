@@ -1,20 +1,17 @@
-<h2>Hi🙏🏻, I'm iib0011! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi🙏🏻, I'm Ambroise or ambou! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/XH5DBrjjjWUIBCQ13b/giphy.gif" width="230">
 <p><em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+[![Linkedin: ambou-97](https://img.shields.io/badge/-ambou-97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ambroisetine/)](https://www.linkedin.com/in/ambroisetine/)
+![](https://visitor-badge.glitch.me/badge?page_id=ambou-97)
+![Waka Readme](https://github.com/ambou-97/ambou-97/workflows/Waka%20Readme/badge.svg)
 
-[![Linkedin: iib0011](https://img.shields.io/badge/-iib0011-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iib0011/)](https://www.linkedin.com/in/iib0011/)
-![](https://visitor-badge.glitch.me/badge?page_id=iib0011)
-![Waka Readme](https://github.com/iib0011/iib0011/workflows/Waka%20Readme/badge.svg)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -89,10 +86,25 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ambou-97/ambou-97/master/charts/bar_graph.png) 
 
 
  Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/ambou-97waka-readme-stats)**
+
+<!--
+**ambou-97/ambou-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
