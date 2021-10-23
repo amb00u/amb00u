@@ -1,11 +1,10 @@
-<h2>Hi🙏🏻, I'm Ambroise or ambou! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi🙏🏻, I'm ambou! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/XH5DBrjjjWUIBCQ13b/giphy.gif" width="230">
 <p><em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: ambou-97](https://img.shields.io/badge/-ambou-97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ambroisetine/)](https://www.linkedin.com/in/ambroisetine/)
+[![Linkedin: ambou-97](https://img.shields.io/badge/-ambou--97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ambroisetine/)](https://www.linkedin.com/in/ambroisetine/)
 ![](https://visitor-badge.glitch.me/badge?page_id=ambou-97)
-![Waka Readme](https://github.com/ambou-97/ambou-97/workflows/Waka%20Readme/badge.svg)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
