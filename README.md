@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: ambou-97](https://img.shields.io/badge/-amb00u-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ambroisetine/)](https://www.linkedin.com/in/ambroisetine/)
-![](https://visitor-badge.glitch.me/badge?page_id=amb00u)
+![](https://visitor-badge.glitch.me/badge?page_id=ambou-97)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
